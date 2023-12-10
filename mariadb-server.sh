@@ -12,6 +12,8 @@ sudo systemctl restart mysql
 
 mysql -h 3.71.41.101 -u root -p 
 
+exit
+
 
 
 
